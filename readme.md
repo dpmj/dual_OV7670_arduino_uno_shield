@@ -6,7 +6,7 @@ This project has been developed as part of Printed Circuit Technology (TCI), a s
 This PCB is a shield for Arduino UNO (Rev 3) that allows connecting simultaneously two OV7670 camera modules, one with a FIFO buffer built in and other without it.
 
 
-![block-diagram](readme_assets/Images/block_diagram.png)
+![block-diagram](readme_assets/Images/block.png)
 
 ## Contents
 
