@@ -1,9 +1,8 @@
 # Dual OV7670 Shield PCB for Arduino UNO 
 
-This is an Arduino UNO shield that can contain up to two OV7670 camera modules in a single board, one with a FIFO Buffer and the other lacking it. Both cameras can't work at the same time as UNO's I/O is very limited so both modules share the data bus and other pins, and we toggle their shutdown state by using a NMOS inverter controlled by a digital pin. This project contains only PCB and Case design files, not Arduino code. Check project references for that.
+This is an Arduino UNO shield that can contain up to two OV7670 camera modules in a single board, one with a FIFO Buffer and the other lacking it. Both cameras can't work at the same time as UNO's I/O is very limited so both modules share the data bus and other pins, and we toggle their shutdown state by using a NMOS inverter controlled by a digital pin. This project contains only PCB and Case design files and does not provide an Arduino code.
 
 This project has been developed as part of Printed Circuit Technology (TCI), a subject taught in Telecommunications Engineering Degree in the University of Granada.
-This PCB is a shield for Arduino UNO (Rev 3) that allows connecting simultaneously two OV7670 camera modules, one with a FIFO buffer built in and other without it.
 
 
 ![block-diagram](readme_assets/Images/block.png)
