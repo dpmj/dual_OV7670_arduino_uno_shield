@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:00:21 On 17/01/2022
+
+Output: Export BOM to CSV
+Type  : BOM
+From  : Variant [[No Variations]] of BOM Document [Bill of Materials.BomDoc]
+   Generated File[Bill_of_materials.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:00:21 On 17/01/2022

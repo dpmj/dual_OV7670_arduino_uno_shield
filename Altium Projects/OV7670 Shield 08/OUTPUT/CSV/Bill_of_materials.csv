@@ -1,0 +1,14 @@
+Line #,Designator,Value,Description,Quantity,TargetPrice
+
+"","C1","100nF","SMD Ceramic Capacitor 100nF 5% 0805","1","0"
+"","F1, F2, F3","","Fiducial 1mm pad, 2mm solder resist","3","0"
+"","MCU1","","Arduino UNO Rev 3 pinout","1","0"
+"","P1","","Header, 9-Pin, Dual row. Pinout of OV7670 module without FIFO buffer.","1","0"
+"","P2","","Header, 11-Pin, Dual row. Pinout of OV7670 module with FIFO buffer.","1","0"
+"","Q1","","N-Channel MOSFET 2N7002P SOT23
+version with footprint compatible with 0 Ohm 0603 resistor","1","0"
+"","Q2","","N-Channel MOSFET 2N7002P SOT23","1","0"
+"","R1, R2, R3, R5, R9, R13","4.7K","SMD Resistor 4.7 KOhm 5% 0.1W 0603","6","0"
+"","R4, R6, R7, R8, R12","150","SMD Resistor 150 Ohm 5% 0.25W 0603","5","0"
+"","R10, R11","220","SMD Resistor 220 Ohm 5% 0.25W 0603","2","0"
+"","TP0, TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12","","Test point - PCB Pad type.","13","0"

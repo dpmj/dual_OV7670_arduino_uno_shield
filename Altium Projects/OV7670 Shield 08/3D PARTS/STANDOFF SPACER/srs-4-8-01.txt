@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.1.4";"";
+"SUPPLIER";"Richco";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-25012011-081931";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"SRS-4-8-01, 12.7mm High Nylon Self-Retaining Spacer with 4.7mm PCB Hole and 3mm Chassis Hole for M3 Screw";"";
+"TraceParts.InstanceId";"10-25012011-081931A587C1FAJAKS97MAC46OGPOY3";"";
+"TraceParts.PartTitle";"SRS-4-8-01, 12.7mm High Nylon Self-Retaining Spacer with 4.7mm PCB Hole and 3mm Chassis Hole for M3 Screw";"";
+"TraceParts.PartStatusId";"";"";
+"REFERENCE";"SRS-4-8-01";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/6633520?cm_mmc=en-ds-_-mcad-_-traceparts-_-6633520'";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"rs_stock_number";"6633520";"";
+"TraceParts.ClassPath";"";"";

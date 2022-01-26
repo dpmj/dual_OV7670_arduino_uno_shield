@@ -1,0 +1,35 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Juano\Documents\Sync\Docs\Universidad\Primer cuatrimestre 4\[TCI] Tecnología de Circuitos Impresos\Proyecto\Shield OV7670\Altium\OV7670 Shield 07\PCB\ShieldPCB.PcbDoc
+Date     : 17/01/2022
+Time     : 11:23:50
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net SDA Between Track (4830mil,4711.063mil)(4865mil,4746.063mil) on Top Layer And Pad MCU1-A4/SDA(6420mil,4380mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net SCL Between Track (4875.748mil,4674.685mil)(4879.685mil,4674.685mil) on Top Layer And Pad MCU1-A5/SCL(6420mil,4480mil) on Multi-Layer 
+Rule Violations :2
+
+Processing Rule : Width Constraint (Min=10mil) (Max=20mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=150mil) (All)
+Rule Violations :0
+
+Processing Rule : Room arduino_connections (Bounding Region = (4425mil, 2525mil, 6775mil, 5675mil) (InComponentClass('arduino_connections'))
+Rule Violations :0
+
+Processing Rule : Room OV7670_headers (Bounding Region = (4525mil, 2625mil, 6875mil, 5765mil) (InComponentClass('OV7670_headers'))
+Rule Violations :0
+
+
+Violations Detected : 2
+Waived Violations : 0
+Time Elapsed        : 00:00:02
