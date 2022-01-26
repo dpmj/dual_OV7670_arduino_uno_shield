@@ -8,7 +8,7 @@ This PCB is a shield for Arduino UNO (Rev 3) that allows connecting simultaneous
 
 ![block-diagram](readme_assets/Images/block.png)
 
-## Contents
+### Contents
 
 This README contains the following documentation (in spanish):
 
@@ -18,6 +18,11 @@ This README contains the following documentation (in spanish):
 4. References
 
 You will find a detailed circuit and PCB documentation on the attached PDF in this repository.
+
+### License
+
+This project is licensed under the MIT license and can be used freely. All product names, logos, and brands are property of their respective owners.
+This project uses 3D models from 3dcontentcentral.com uploaded by users and companies and can be under other copyright licenses. All third-party assets are property of their respective owners. 
 
 
 ## PCB design notes
@@ -62,11 +67,6 @@ La tapa cierra la caja y ofrece sujección por la parte de abajo del stack de pl
 
 ![hinge-detail](readme_assets/Images/caja/detalle_bisagra.png)
 
-
-## License
-
-This project is licensed under the MIT license and can be used freely. All product names, logos, and brands are property of their respective owners.
-This project uses 3D models from 3dcontentcentral.com uploaded by users and companies and can be under other copyright licenses. All third-party assets are property of their respective owners. 
 
 ---
 
