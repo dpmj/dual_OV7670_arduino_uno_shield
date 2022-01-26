@@ -6,7 +6,7 @@ This project has been developed as part of Printed Circuit Technology (TCI), a s
 This PCB is a shield for Arduino UNO (Rev 3) that allows connecting simultaneously two OV7670 camera modules, one with a FIFO buffer built in and other without it.
 
 
-![](readme assets/Images/block_diagram.png)
+![block-diagram](readme_assets/Images/block_diagram.png)
 
 ## Contents
 
@@ -34,18 +34,18 @@ La PCB contiene muchos elementos que no son extrictamente necesarios para que el
 
 ### PCB layer stack
 
-![pcb-layers](/readme_assets/Images/PCB/layers.png)
+![pcb-layers](readme_assets/Images/PCB/layers.png)
 
 ### PCB renders
 
 ![pcb-general-view](readme_assets/Images/PCB/general.png)
 
-![pcb-clear-view](/readme_assets/Images/PCB/pcb_despejada.png)
+![pcb-clear-view](readme_assets/Images/PCB/pcb_despejada.png)
 
 
 ## Case design Notes
 
-Este proyecto también incluye el diseño de una caja para la electrónica. De plástico ABS, imprimible en 3D y con un diseño sin tornillería. 
+Este proyecto también incluye el diseño de una caja para la electrónica en SolidWorks. De plástico ABS, imprimible en 3D y con un diseño sin tornillería. 
 El diseño viene marcado por la peculiar forma de la placa de circuito impreso del Arduino UNO y la altura del stack de 3 PCBs separadas por espaciadores, así como el deseo de realizarla de dimensiones relativamente compactas. Se ha optado por un diseño libre de tornillos, lo que hace esta caja muy práctica de utilizar. El método de cerrado consiste en una bisagra integrada en ambas piezas, de forma que una sea el eje y otra la pinza (de esta forma no se necesita una tercera pieza como eje).
 
 La tapa se asegura a la base mediante una pestaña con estrías que la dotan de flexibilidad, de forma que vence el montículo y se encaja en su zócalo. Se ofrece margen debajo para poder hacer palanca sobre la pestaña y abrir la caja con facilidad. Los puertos están dotados de aperturas amplias.
@@ -54,7 +54,7 @@ Las piezas en sí mismas tienen formas determinadas para adaptarse a las formas 
 
 La tapa cierra la caja y ofrece sujección por la parte de abajo del stack de placas mediante el nervio longitudinal que lo atraviesa, y la cruz al lado. Estos elementos están colocados de forma que no coinciden con ninguna soldadura o pin THT del Arduino. La tapa también contiene dos tacos que encajan en el hueco de los conectores. La bisagra de la esquina está integrada en la propia pieza de la tapa. El corte trapezoidal en el lado de la bisagra evita que la tapa colisione con la PCB al girar. La bisagra está integrada dentro del perfil de la caja, de forma que no sobresale del cuerpo.
 
-![orthogonal-view]("readme_assets/Images/caja/ortho.png")
+![orthogonal-view](readme_assets/Images/caja/ortho.png)
 
 ![open-closed](readme_assets/Images/caja/open_closed.png)
 
@@ -67,7 +67,6 @@ La tapa cierra la caja y ofrece sujección por la parte de abajo del stack de pl
 
 This project is licensed under the MIT license and can be used freely. All product names, logos, and brands are property of their respective owners.
 This project uses 3D models from 3dcontentcentral.com uploaded by users and companies and can be under other copyright licenses. All third-party assets are property of their respective owners. 
-
 
 ---
 
