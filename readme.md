@@ -34,13 +34,13 @@ La PCB contiene muchos elementos que no son extrictamente necesarios para que el
 
 ### PCB layer stack
 
-![](readme assets/Images/PCB/layers.png)
+![pcb-layers](/readme assets/Images/PCB/layers.png)
 
 ### PCB renders
 
-![](readme assets/Images/PCB/general.png)
+![pcb-general-view](readme\ assets/Images/PCB/general.png)
 
-![](readme assets/Images/PCB/pcb_despejada.png)
+![pcb-clear-view](/readme\ assets/Images/PCB/pcb_despejada.png)
 
 
 ## Case design Notes
@@ -54,13 +54,19 @@ Las piezas en sí mismas tienen formas determinadas para adaptarse a las formas 
 
 La tapa cierra la caja y ofrece sujección por la parte de abajo del stack de placas mediante el nervio longitudinal que lo atraviesa, y la cruz al lado. Estos elementos están colocados de forma que no coinciden con ninguna soldadura o pin THT del Arduino. La tapa también contiene dos tacos que encajan en el hueco de los conectores. La bisagra de la esquina está integrada en la propia pieza de la tapa. El corte trapezoidal en el lado de la bisagra evita que la tapa colisione con la PCB al girar. La bisagra está integrada dentro del perfil de la caja, de forma que no sobresale del cuerpo.
 
-![](readme assets/Images/caja/ortho.png)
+![orthogonal-view]("readme assets/Images/caja/ortho.png")
 
-![](readme assets/Images/caja/open_closed.png)
+![open-closed](readme assets/Images/caja/open_closed.png)
 
-![](readme assets/Images/caja/open_transparent.png)
+![open-transparent](readme assets/Images/caja/open_transparent.png)
 
-![](readme assets/Images/caja/detalle_bisagra.png)
+![hinge-detail](readme assets/Images/caja/detalle_bisagra.png)
+
+
+## License
+
+This project is licensed under the MIT license and can be used freely. All product names, logos, and brands are property of their respective owners.
+This project uses 3D models from 3dcontentcentral.com uploaded by users and companies and can be under other copyright licenses. All third-party assets are property of their respective owners. 
 
 
 ---
